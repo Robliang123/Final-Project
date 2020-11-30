@@ -1,21 +1,20 @@
 ## Pocket book
 
-### java版本：1.7
 
-### 实现了登录，保密，与账目信息的增删查改。
+### Enables logging in, secrecy, and the addition, deletion, and modification of account information.
 
-### 以及账目数据的可视化
+### and visualization of account data
 
-### 支持通过月份、星期、日期、来查看账目数据与线管图像
+### Support for viewing accounting data and line management images by month, day of the week, and date
 
-### 使用插件[ticker](https://github.com/robinhood/ticker)
+### Using the plugin [ticker](https://github.com/robinhood/ticker)
 
-![img](readme.assets/ticker_main.gif)
+! [img](readme.assets/ticker_main.gif)
 
-### 其主要作用是在账目数据变化时，提供优雅地滚动过渡动画。
+### Its main purpose is to provide elegantly scrolling transitions as the account data changes.
+
 
 ![](readme.assets/1-1591583116682.png)
 
-![](readme.assets/2.png)
 
 ![](readme.assets/3.png)# Pocket-book
