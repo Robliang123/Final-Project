@@ -9,7 +9,7 @@
 
 ### Using the plugin [ticker](https://github.com/robinhood/ticker)
 
-! [img](readme.assets/ticker_main.gif)
+![img](readme.assets/ticker_main.gif)
 
 ### Its main purpose is to provide elegantly scrolling transitions as the account data changes.
 
